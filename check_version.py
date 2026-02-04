@@ -26,7 +26,7 @@ def utc_to_bj_str(utc_str):
     try:
         # 处理可能的 Z 结尾
         cleaned = utc_str.replace("Z", "")
-        # 处理可能存在的微秒，只取前19位 YYYY-MM-DDTHH:MM:SS
+        # 处理可能存在的微秒
         if "." in cleaned:
             cleaned = cleaned.split(".")[0]
             
@@ -232,7 +232,7 @@ def main():
             releases = 获取所有版本()
             
             # 排序：按发布时间 升序 (Oldest -> Newest / Smallest -> Largest)
-            # 以满足 "倒叙排列版本，从最小的开始执行" (倒叙指相对于 GitHub 默认 Newest First 的倒叙)
+            # 以满足 "倒叙排列版本，从最小的开始执行"
             releases.sort(key=lambda x: x.get("published_at", ""))
             
             output = [{"version": r["tag_name"]} for r in releases]
@@ -248,9 +248,16 @@ def main():
                 file_list = 下载资源(target_release["assets"])
                 if "GITHUB_OUTPUT" in os.environ:
                     with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-                        body_escaped = target_release['body'].replace('%', '%25').replace('\n', '%0A').replace('\r', '%0D')
-                        f.write(f"body={body_escaped}\n")
-                        f.write(f"published_at={target_release['published_at']}\n")
+                        # NEW: 使用 Heredoc 避免乱码
+                        body_content = target_release.get('body', '') or ''
+                        f.write("body<<EOF\n")
+                        f.write(body_content)
+                        f.write("\nEOF\n")
+                        
+                        # NEW: 转换时间
+                        bj_time = utc_to_bj_str(target_release['published_at'])
+                        f.write(f"published_at={bj_time}\n")
+                        
                         f.write(f"html_url={target_release['html_url']}\n")
                         f.write("assets<<EOF\n")
                         f.write('\n'.join(file_list))
@@ -308,8 +315,11 @@ def main():
             f.write(f"version={tag_name}\n")
             
             if version_changed:
-                body_escaped = json.dumps(latest_release['body']).strip('"').replace('\\n', '%0A').replace('\\r', '%0D')
-                f.write(f"body={body_escaped}\n")
+                # NEW: 使用 Heredoc 避免乱码
+                body_content = latest_release.get('body', '') or ''
+                f.write("body<<EOF\n")
+                f.write(body_content)
+                f.write("\nEOF\n")
                 
                 print("版本更新，开始下载资源...")
                 file_list = 下载资源(latest_release["assets"])
