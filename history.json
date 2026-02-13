@@ -144,14 +144,6 @@
                 "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0213.9f6eb46_arm64.deb"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0213.9f6eb46_arm64_fixed_webview2-setup.exe",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0213.9f6eb46_arm64_fixed_webview2-setup.exe"
-            },
-            {
-                "name": "Clash.Verge_2.4.6+autobuild.0213.9f6eb46_arm64_fixed_webview2-setup.exe.sig",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0213.9f6eb46_arm64_fixed_webview2-setup.exe.sig"
-            },
-            {
                 "name": "Clash.Verge_2.4.6+autobuild.0213.9f6eb46_armhf.deb",
                 "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0213.9f6eb46_armhf.deb"
             },
@@ -166,14 +158,6 @@
             {
                 "name": "Clash.Verge_2.4.6+autobuild.0213.9f6eb46_x64.dmg",
                 "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0213.9f6eb46_x64.dmg"
-            },
-            {
-                "name": "Clash.Verge_2.4.6+autobuild.0213.9f6eb46_x64_fixed_webview2-setup.exe",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0213.9f6eb46_x64_fixed_webview2-setup.exe"
-            },
-            {
-                "name": "Clash.Verge_2.4.6+autobuild.0213.9f6eb46_x64_fixed_webview2-setup.exe.sig",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0213.9f6eb46_x64_fixed_webview2-setup.exe.sig"
             },
             {
                 "name": "Clash.Verge_aarch64.app.tar.gz",
