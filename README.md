@@ -2,7 +2,7 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-02-20 04:28:27
+> 上次检测时间 (UTC+8): 2026-02-20 05:28:53
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v2.4.6
@@ -10,7 +10,7 @@
 
 | 平台 (Platform) | 为了美观，请下载对应的版本 (Download) |
 | :--- | :--- |
-| 🪟 **Windows** | [Clash.Verge_2.4.6_arm64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64-setup.exe.sig)<br>[Clash.Verge_2.4.6_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64-setup.exe)<br>[Clash.Verge_2.4.6_x64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe.sig)<br>[Clash.Verge_2.4.6_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe) |
+| 🪟 **Windows** | [Clash.Verge_2.4.6_arm64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64-setup.exe.sig)<br>[Clash.Verge_2.4.6_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64-setup.exe)<br>[Clash.Verge_2.4.6_arm64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64_fixed_webview2-setup.exe.sig)<br>[Clash.Verge_2.4.6_arm64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64_fixed_webview2-setup.exe)<br>[Clash.Verge_2.4.6_x64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe.sig)<br>[Clash.Verge_2.4.6_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe)<br>[Clash.Verge_2.4.6_x64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64_fixed_webview2-setup.exe.sig)<br>[Clash.Verge_2.4.6_x64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64_fixed_webview2-setup.exe) |
 | 🍎 **macOS** | [Clash.Verge_2.4.6_aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_aarch64.dmg)<br>[Clash.Verge_2.4.6_x64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64.dmg) |
 | 🐧 **Linux** | [Clash.Verge-2.4.6-1.aarch64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge-2.4.6-1.aarch64.rpm)<br>[Clash.Verge-2.4.6-1.armhfp.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge-2.4.6-1.armhfp.rpm)<br>[Clash.Verge-2.4.6-1.x86_64.rpm.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge-2.4.6-1.x86_64.rpm.sig)<br>[Clash.Verge-2.4.6-1.x86_64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge-2.4.6-1.x86_64.rpm)<br>[Clash.Verge_2.4.6_amd64.deb.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_amd64.deb.sig)<br>[Clash.Verge_2.4.6_amd64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_amd64.deb)<br>[Clash.Verge_2.4.6_arm64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64.deb)<br>[Clash.Verge_2.4.6_armhf.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_armhf.deb) |
 | 📦 **Other** | [Clash.Verge_aarch64.app.tar.gz.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_aarch64.app.tar.gz.sig)<br>[Clash.Verge_aarch64.app.tar.gz](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_aarch64.app.tar.gz)<br>[Clash.Verge_x64.app.tar.gz.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_x64.app.tar.gz.sig)<br>[Clash.Verge_x64.app.tar.gz](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_x64.app.tar.gz)<br>[latest.json](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/latest.json) |
@@ -34,8 +34,12 @@
 #### 🪟 Windows
 - [Clash.Verge_2.4.6_arm64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64-setup.exe.sig)
 - [Clash.Verge_2.4.6_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64-setup.exe)
+- [Clash.Verge_2.4.6_arm64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.4.6_arm64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64_fixed_webview2-setup.exe)
 - [Clash.Verge_2.4.6_x64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe.sig)
 - [Clash.Verge_2.4.6_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe)
+- [Clash.Verge_2.4.6_x64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.4.6_x64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64_fixed_webview2-setup.exe)
 
 #### 🍎 macOS
 - [Clash.Verge_2.4.6_aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_aarch64.dmg)
