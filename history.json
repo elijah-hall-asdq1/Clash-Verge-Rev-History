@@ -1,5 +1,88 @@
 [
     {
+        "tag_name": "v2.4.6",
+        "published_at": "2026-02-19T20:16:41Z",
+        "html_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.6",
+        "assets": [
+            {
+                "name": "Clash.Verge-2.4.6-1.aarch64.rpm",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge-2.4.6-1.aarch64.rpm"
+            },
+            {
+                "name": "Clash.Verge-2.4.6-1.armhfp.rpm",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge-2.4.6-1.armhfp.rpm"
+            },
+            {
+                "name": "Clash.Verge-2.4.6-1.x86_64.rpm",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge-2.4.6-1.x86_64.rpm"
+            },
+            {
+                "name": "Clash.Verge-2.4.6-1.x86_64.rpm.sig",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge-2.4.6-1.x86_64.rpm.sig"
+            },
+            {
+                "name": "Clash.Verge_2.4.6_aarch64.dmg",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_aarch64.dmg"
+            },
+            {
+                "name": "Clash.Verge_2.4.6_amd64.deb",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_amd64.deb"
+            },
+            {
+                "name": "Clash.Verge_2.4.6_amd64.deb.sig",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_amd64.deb.sig"
+            },
+            {
+                "name": "Clash.Verge_2.4.6_arm64-setup.exe",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64-setup.exe"
+            },
+            {
+                "name": "Clash.Verge_2.4.6_arm64-setup.exe.sig",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64-setup.exe.sig"
+            },
+            {
+                "name": "Clash.Verge_2.4.6_arm64.deb",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_arm64.deb"
+            },
+            {
+                "name": "Clash.Verge_2.4.6_armhf.deb",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_armhf.deb"
+            },
+            {
+                "name": "Clash.Verge_2.4.6_x64-setup.exe",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe"
+            },
+            {
+                "name": "Clash.Verge_2.4.6_x64-setup.exe.sig",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64-setup.exe.sig"
+            },
+            {
+                "name": "Clash.Verge_2.4.6_x64.dmg",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_2.4.6_x64.dmg"
+            },
+            {
+                "name": "Clash.Verge_aarch64.app.tar.gz",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_aarch64.app.tar.gz"
+            },
+            {
+                "name": "Clash.Verge_aarch64.app.tar.gz.sig",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_aarch64.app.tar.gz.sig"
+            },
+            {
+                "name": "Clash.Verge_x64.app.tar.gz",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_x64.app.tar.gz"
+            },
+            {
+                "name": "Clash.Verge_x64.app.tar.gz.sig",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/Clash.Verge_x64.app.tar.gz.sig"
+            },
+            {
+                "name": "latest.json",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.6/latest.json"
+            }
+        ]
+    },
+    {
         "tag_name": "v2.4.5",
         "published_at": "2026-01-25T06:25:40Z",
         "html_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.5",
