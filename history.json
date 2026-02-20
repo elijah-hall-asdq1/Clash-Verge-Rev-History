@@ -203,76 +203,76 @@
         "html_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild",
         "assets": [
             {
-                "name": "Clash.Verge-2.4.6+autobuild.0219.ec6f259-1.aarch64.rpm",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.6%2Bautobuild.0219.ec6f259-1.aarch64.rpm"
+                "name": "Clash.Verge-2.4.7+autobuild.0220.5f573ca-1.aarch64.rpm",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0220.5f573ca-1.aarch64.rpm"
             },
             {
-                "name": "Clash.Verge-2.4.6+autobuild.0219.ec6f259-1.armhfp.rpm",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.6%2Bautobuild.0219.ec6f259-1.armhfp.rpm"
+                "name": "Clash.Verge-2.4.7+autobuild.0220.5f573ca-1.armhfp.rpm",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0220.5f573ca-1.armhfp.rpm"
             },
             {
-                "name": "Clash.Verge-2.4.6+autobuild.0219.ec6f259-1.x86_64.rpm",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.6%2Bautobuild.0219.ec6f259-1.x86_64.rpm"
+                "name": "Clash.Verge-2.4.7+autobuild.0220.5f573ca-1.x86_64.rpm",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0220.5f573ca-1.x86_64.rpm"
             },
             {
-                "name": "Clash.Verge-2.4.6+autobuild.0219.ec6f259-1.x86_64.rpm.sig",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.6%2Bautobuild.0219.ec6f259-1.x86_64.rpm.sig"
+                "name": "Clash.Verge-2.4.7+autobuild.0220.5f573ca-1.x86_64.rpm.sig",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0220.5f573ca-1.x86_64.rpm.sig"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_aarch64.dmg",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_aarch64.dmg"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_aarch64.dmg",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_aarch64.dmg"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_amd64.deb",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_amd64.deb"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_amd64.deb",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_amd64.deb"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_amd64.deb.sig",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_amd64.deb.sig"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_amd64.deb.sig",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_amd64.deb.sig"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_arm64-setup.exe",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_arm64-setup.exe"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_arm64-setup.exe",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_arm64-setup.exe"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_arm64-setup.exe.sig",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_arm64-setup.exe.sig"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_arm64-setup.exe.sig",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_arm64-setup.exe.sig"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_arm64.deb",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_arm64.deb"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_arm64.deb",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_arm64.deb"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_arm64_fixed_webview2-setup.exe",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_arm64_fixed_webview2-setup.exe"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_arm64_fixed_webview2-setup.exe",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_arm64_fixed_webview2-setup.exe"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_arm64_fixed_webview2-setup.exe.sig",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_arm64_fixed_webview2-setup.exe.sig"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_arm64_fixed_webview2-setup.exe.sig",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_arm64_fixed_webview2-setup.exe.sig"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_armhf.deb",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_armhf.deb"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_armhf.deb",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_armhf.deb"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_x64-setup.exe",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_x64-setup.exe"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_x64-setup.exe",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_x64-setup.exe"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_x64-setup.exe.sig",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_x64-setup.exe.sig"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_x64-setup.exe.sig",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_x64-setup.exe.sig"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_x64.dmg",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_x64.dmg"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_x64.dmg",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_x64.dmg"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_x64_fixed_webview2-setup.exe",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_x64_fixed_webview2-setup.exe"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_x64_fixed_webview2-setup.exe",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_x64_fixed_webview2-setup.exe"
             },
             {
-                "name": "Clash.Verge_2.4.6+autobuild.0219.ec6f259_x64_fixed_webview2-setup.exe.sig",
-                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.6%2Bautobuild.0219.ec6f259_x64_fixed_webview2-setup.exe.sig"
+                "name": "Clash.Verge_2.4.7+autobuild.0220.5f573ca_x64_fixed_webview2-setup.exe.sig",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0220.5f573ca_x64_fixed_webview2-setup.exe.sig"
             },
             {
                 "name": "Clash.Verge_aarch64.app.tar.gz",
