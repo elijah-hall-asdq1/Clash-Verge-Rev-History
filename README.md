@@ -2,7 +2,7 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-02-23 18:46:33
+> 上次检测时间 (UTC+8): 2026-02-23 19:37:30
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v2.4.6
@@ -295,6 +295,7 @@
 
 #### 🍎 macOS
 - [Clash.Verge_2.4.7+autobuild.0223.e1d914e_aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0223.e1d914e_aarch64.dmg)
+- [Clash.Verge_2.4.7+autobuild.0223.e1d914e_x64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0223.e1d914e_x64.dmg)
 
 #### 🐧 Linux
 - [Clash.Verge-2.4.7+autobuild.0223.e1d914e-1.aarch64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0223.e1d914e-1.aarch64.rpm)
@@ -309,6 +310,8 @@
 #### 📦 Other
 - [Clash.Verge_aarch64.app.tar.gz.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_aarch64.app.tar.gz.sig)
 - [Clash.Verge_aarch64.app.tar.gz](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_aarch64.app.tar.gz)
+- [Clash.Verge_x64.app.tar.gz.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_x64.app.tar.gz.sig)
+- [Clash.Verge_x64.app.tar.gz](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_x64.app.tar.gz)
 - [latest.json](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/latest.json)
 
 ---
