@@ -2,7 +2,7 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-03-12 12:11:15
+> 上次检测时间 (UTC+8): 2026-03-12 13:48:02
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v2.4.6
@@ -284,28 +284,28 @@
 > 📅 **发布时间**: `2025-11-10 19:05:52` &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 [查看原始发布页面 (Source)](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild)
 
 #### 🪟 Windows
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_arm64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_arm64-setup.exe.sig)
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_arm64-setup.exe)
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_arm64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_arm64_fixed_webview2-setup.exe.sig)
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_arm64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_arm64_fixed_webview2-setup.exe)
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_x64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_x64-setup.exe.sig)
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_x64-setup.exe)
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_x64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_x64_fixed_webview2-setup.exe.sig)
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_x64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_x64_fixed_webview2-setup.exe)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_arm64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_arm64-setup.exe.sig)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_arm64-setup.exe)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_arm64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_arm64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_arm64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_arm64_fixed_webview2-setup.exe)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_x64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_x64-setup.exe.sig)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_x64-setup.exe)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_x64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_x64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_x64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_x64_fixed_webview2-setup.exe)
 
 #### 🍎 macOS
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_aarch64.dmg)
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_x64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_x64.dmg)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_aarch64.dmg)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_x64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_x64.dmg)
 
 #### 🐧 Linux
-- [Clash.Verge-2.4.7+autobuild.0311.7ebf27b-1.aarch64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0311.7ebf27b-1.aarch64.rpm)
-- [Clash.Verge-2.4.7+autobuild.0311.7ebf27b-1.armhfp.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0311.7ebf27b-1.armhfp.rpm)
-- [Clash.Verge-2.4.7+autobuild.0311.7ebf27b-1.x86_64.rpm.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0311.7ebf27b-1.x86_64.rpm.sig)
-- [Clash.Verge-2.4.7+autobuild.0311.7ebf27b-1.x86_64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0311.7ebf27b-1.x86_64.rpm)
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_amd64.deb.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_amd64.deb.sig)
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_amd64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_amd64.deb)
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_arm64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_arm64.deb)
-- [Clash.Verge_2.4.7+autobuild.0311.7ebf27b_armhf.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0311.7ebf27b_armhf.deb)
+- [Clash.Verge-2.4.7+autobuild.0312.d4988f9-1.aarch64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0312.d4988f9-1.aarch64.rpm)
+- [Clash.Verge-2.4.7+autobuild.0312.d4988f9-1.armhfp.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0312.d4988f9-1.armhfp.rpm)
+- [Clash.Verge-2.4.7+autobuild.0312.d4988f9-1.x86_64.rpm.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0312.d4988f9-1.x86_64.rpm.sig)
+- [Clash.Verge-2.4.7+autobuild.0312.d4988f9-1.x86_64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.4.7%2Bautobuild.0312.d4988f9-1.x86_64.rpm)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_amd64.deb.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_amd64.deb.sig)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_amd64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_amd64.deb)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_arm64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_arm64.deb)
+- [Clash.Verge_2.4.7+autobuild.0312.d4988f9_armhf.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.7%2Bautobuild.0312.d4988f9_armhf.deb)
 
 #### 📦 Other
 - [Clash.Verge_aarch64.app.tar.gz.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_aarch64.app.tar.gz.sig)
