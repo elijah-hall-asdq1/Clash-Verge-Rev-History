@@ -2,11 +2,11 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-03-21 23:22:09
+> 上次检测时间 (UTC+8): 2026-03-22 00:25:13
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v2.4.7
-**发布时间 (UTC+8)**: `2026-03-21 13:50:10`  |  [查看详细变更日志](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.7)
+**发布时间 (UTC+8)**: `2026-03-22 00:16:55`  |  [查看详细变更日志](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.7)
 
 | 平台 (Platform) | 为了美观，请下载对应的版本 (Download) |
 | :--- | :--- |
@@ -29,7 +29,7 @@
 ## 📜 所有历史版本 (All Versions)
 
 ### v2.4.7
-> 📅 **发布时间**: `2026-03-21 13:50:10` &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 [查看原始发布页面 (Source)](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.7)
+> 📅 **发布时间**: `2026-03-22 00:16:55` &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 [查看原始发布页面 (Source)](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.7)
 
 #### 🪟 Windows
 - [Clash.Verge_2.4.7_arm64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_arm64-setup.exe.sig)
