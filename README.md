@@ -2,7 +2,7 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-03-29 13:07:46
+> 上次检测时间 (UTC+8): 2026-03-29 14:58:39
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v2.4.7
@@ -322,8 +322,12 @@
 #### 🪟 Windows
 - [Clash.Verge_2.4.8+autobuild.0329.7a06a5a_arm64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0329.7a06a5a_arm64-setup.exe.sig)
 - [Clash.Verge_2.4.8+autobuild.0329.7a06a5a_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0329.7a06a5a_arm64-setup.exe)
+- [Clash.Verge_2.4.8+autobuild.0329.7a06a5a_arm64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0329.7a06a5a_arm64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.4.8+autobuild.0329.7a06a5a_arm64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0329.7a06a5a_arm64_fixed_webview2-setup.exe)
 - [Clash.Verge_2.4.8+autobuild.0329.7a06a5a_x64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0329.7a06a5a_x64-setup.exe.sig)
 - [Clash.Verge_2.4.8+autobuild.0329.7a06a5a_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0329.7a06a5a_x64-setup.exe)
+- [Clash.Verge_2.4.8+autobuild.0329.7a06a5a_x64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0329.7a06a5a_x64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.4.8+autobuild.0329.7a06a5a_x64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0329.7a06a5a_x64_fixed_webview2-setup.exe)
 
 #### 🍎 macOS
 - [Clash.Verge_2.4.8+autobuild.0329.7a06a5a_aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0329.7a06a5a_aarch64.dmg)
