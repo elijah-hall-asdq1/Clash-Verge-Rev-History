@@ -2,7 +2,7 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-03-31 13:06:14
+> 上次检测时间 (UTC+8): 2026-03-31 15:08:26
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v2.4.7
@@ -318,6 +318,16 @@
 
 ### autobuild
 > 📅 **发布时间**: `2025-11-10 19:05:52` &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 [查看原始发布页面 (Source)](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/autobuild)
+
+#### 🪟 Windows
+- [Clash.Verge_2.4.8+autobuild.0331.b62d89e_arm64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0331.b62d89e_arm64-setup.exe.sig)
+- [Clash.Verge_2.4.8+autobuild.0331.b62d89e_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0331.b62d89e_arm64-setup.exe)
+- [Clash.Verge_2.4.8+autobuild.0331.b62d89e_arm64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0331.b62d89e_arm64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.4.8+autobuild.0331.b62d89e_arm64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0331.b62d89e_arm64_fixed_webview2-setup.exe)
+- [Clash.Verge_2.4.8+autobuild.0331.b62d89e_x64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0331.b62d89e_x64-setup.exe.sig)
+- [Clash.Verge_2.4.8+autobuild.0331.b62d89e_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0331.b62d89e_x64-setup.exe)
+- [Clash.Verge_2.4.8+autobuild.0331.b62d89e_x64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0331.b62d89e_x64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.4.8+autobuild.0331.b62d89e_x64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0331.b62d89e_x64_fixed_webview2-setup.exe)
 
 #### 🍎 macOS
 - [Clash.Verge_2.4.8+autobuild.0331.b62d89e_aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0331.b62d89e_aarch64.dmg)
