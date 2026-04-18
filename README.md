@@ -2,7 +2,7 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-04-19 03:38:38
+> 上次检测时间 (UTC+8): 2026-04-19 04:32:29
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v2.4.7
