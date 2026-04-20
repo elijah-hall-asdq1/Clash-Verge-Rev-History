@@ -2,7 +2,7 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-04-20 13:37:05
+> 上次检测时间 (UTC+8): 2026-04-20 16:00:51
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v2.4.7
@@ -322,6 +322,8 @@
 #### 🪟 Windows
 - [Clash.Verge_2.4.8+autobuild.0420.bf2fcca_arm64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0420.bf2fcca_arm64-setup.exe.sig)
 - [Clash.Verge_2.4.8+autobuild.0420.bf2fcca_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0420.bf2fcca_arm64-setup.exe)
+- [Clash.Verge_2.4.8+autobuild.0420.bf2fcca_arm64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0420.bf2fcca_arm64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.4.8+autobuild.0420.bf2fcca_arm64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0420.bf2fcca_arm64_fixed_webview2-setup.exe)
 - [Clash.Verge_2.4.8+autobuild.0420.bf2fcca_x64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0420.bf2fcca_x64-setup.exe.sig)
 - [Clash.Verge_2.4.8+autobuild.0420.bf2fcca_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0420.bf2fcca_x64-setup.exe)
 - [Clash.Verge_2.4.8+autobuild.0420.bf2fcca_x64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.4.8%2Bautobuild.0420.bf2fcca_x64_fixed_webview2-setup.exe.sig)
