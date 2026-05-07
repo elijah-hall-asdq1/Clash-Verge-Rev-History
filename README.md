@@ -2,7 +2,7 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-05-07 19:07:13
+> 上次检测时间 (UTC+8): 2026-05-07 21:58:32
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v2.5.0-rc
@@ -358,8 +358,12 @@
 #### 🪟 Windows
 - [Clash.Verge_2.5.0+autobuild.0507.1d28cf7_arm64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0%2Bautobuild.0507.1d28cf7_arm64-setup.exe.sig)
 - [Clash.Verge_2.5.0+autobuild.0507.1d28cf7_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0%2Bautobuild.0507.1d28cf7_arm64-setup.exe)
+- [Clash.Verge_2.5.0+autobuild.0507.1d28cf7_arm64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0%2Bautobuild.0507.1d28cf7_arm64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.5.0+autobuild.0507.1d28cf7_arm64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0%2Bautobuild.0507.1d28cf7_arm64_fixed_webview2-setup.exe)
 - [Clash.Verge_2.5.0+autobuild.0507.1d28cf7_x64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0%2Bautobuild.0507.1d28cf7_x64-setup.exe.sig)
 - [Clash.Verge_2.5.0+autobuild.0507.1d28cf7_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0%2Bautobuild.0507.1d28cf7_x64-setup.exe)
+- [Clash.Verge_2.5.0+autobuild.0507.1d28cf7_x64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0%2Bautobuild.0507.1d28cf7_x64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.5.0+autobuild.0507.1d28cf7_x64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0%2Bautobuild.0507.1d28cf7_x64_fixed_webview2-setup.exe)
 
 #### 🍎 macOS
 - [Clash.Verge_2.5.0+autobuild.0507.1d28cf7_aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.0%2Bautobuild.0507.1d28cf7_aarch64.dmg)
