@@ -2,7 +2,7 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-06-07 19:06:11
+> 上次检测时间 (UTC+8): 2026-06-07 21:44:29
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v2.5.1
@@ -436,13 +436,23 @@
 - [Clash.Verge_2.5.2+autobuild.0607.45afb1c_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.45afb1c_x64-setup.exe)
 - [Clash.Verge_2.5.2+autobuild.0607.45afb1c_x64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.45afb1c_x64_fixed_webview2-setup.exe.sig)
 - [Clash.Verge_2.5.2+autobuild.0607.45afb1c_x64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.45afb1c_x64_fixed_webview2-setup.exe)
+- [Clash.Verge_2.5.2+autobuild.0607.ca325f1_arm64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_arm64-setup.exe.sig)
+- [Clash.Verge_2.5.2+autobuild.0607.ca325f1_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_arm64-setup.exe)
+- [Clash.Verge_2.5.2+autobuild.0607.ca325f1_arm64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_arm64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.5.2+autobuild.0607.ca325f1_arm64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_arm64_fixed_webview2-setup.exe)
+- [Clash.Verge_2.5.2+autobuild.0607.ca325f1_x64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_x64-setup.exe.sig)
+- [Clash.Verge_2.5.2+autobuild.0607.ca325f1_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_x64-setup.exe)
+- [Clash.Verge_2.5.2+autobuild.0607.ca325f1_x64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_x64_fixed_webview2-setup.exe.sig)
+- [Clash.Verge_2.5.2+autobuild.0607.ca325f1_x64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_x64_fixed_webview2-setup.exe)
 
 #### 🍎 macOS
 - [Clash.Verge_2.5.2+autobuild.0607.ca325f1_aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_aarch64.dmg)
+- [Clash.Verge_2.5.2+autobuild.0607.ca325f1_x64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_x64.dmg)
 
 #### 🐧 Linux
 - [Clash.Verge-2.5.2+autobuild.0607.45afb1c-1.x86_64.rpm.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.5.2%2Bautobuild.0607.45afb1c-1.x86_64.rpm.sig)
 - [Clash.Verge-2.5.2+autobuild.0607.45afb1c-1.x86_64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.5.2%2Bautobuild.0607.45afb1c-1.x86_64.rpm)
+- [Clash.Verge-2.5.2+autobuild.0607.ca325f1-1.aarch64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.5.2%2Bautobuild.0607.ca325f1-1.aarch64.rpm)
 - [Clash.Verge-2.5.2+autobuild.0607.ca325f1-1.armhfp.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.5.2%2Bautobuild.0607.ca325f1-1.armhfp.rpm)
 - [Clash.Verge-2.5.2+autobuild.0607.ca325f1-1.x86_64.rpm.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.5.2%2Bautobuild.0607.ca325f1-1.x86_64.rpm.sig)
 - [Clash.Verge-2.5.2+autobuild.0607.ca325f1-1.x86_64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge-2.5.2%2Bautobuild.0607.ca325f1-1.x86_64.rpm)
@@ -450,11 +460,14 @@
 - [Clash.Verge_2.5.2+autobuild.0607.45afb1c_amd64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.45afb1c_amd64.deb)
 - [Clash.Verge_2.5.2+autobuild.0607.ca325f1_amd64.deb.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_amd64.deb.sig)
 - [Clash.Verge_2.5.2+autobuild.0607.ca325f1_amd64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_amd64.deb)
+- [Clash.Verge_2.5.2+autobuild.0607.ca325f1_arm64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_arm64.deb)
 - [Clash.Verge_2.5.2+autobuild.0607.ca325f1_armhf.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_2.5.2%2Bautobuild.0607.ca325f1_armhf.deb)
 
 #### 📦 Other
 - [Clash.Verge_aarch64.app.tar.gz.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_aarch64.app.tar.gz.sig)
 - [Clash.Verge_aarch64.app.tar.gz](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_aarch64.app.tar.gz)
+- [Clash.Verge_x64.app.tar.gz.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_x64.app.tar.gz.sig)
+- [Clash.Verge_x64.app.tar.gz](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/Clash.Verge_x64.app.tar.gz)
 - [latest.json](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/autobuild/latest.json)
 
 ---
