@@ -2,7 +2,7 @@
 
 > [!TIP]
 > 本仓库自动监控并备份 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 的 Release 版本。
-> 上次检测时间 (UTC+8): 2026-06-09 20:33:13
+> 上次检测时间 (UTC+8): 2026-06-09 23:51:32
 
 ## 🌟 最新版本 (Latest)
 ### 🔥 v2.5.1
@@ -612,6 +612,7 @@
 - [update-fixed-webview2-proxy.json](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update-fixed-webview2-proxy.json)
 - [update-fixed-webview2.json](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update-fixed-webview2.json)
 - [update-proxy.json](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update-proxy.json)
+- [update-test.json](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update-test.json)
 - [update.json](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update.json)
 
 ---

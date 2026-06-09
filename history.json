@@ -2060,6 +2060,10 @@
                 "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update-proxy.json"
             },
             {
+                "name": "update-test.json",
+                "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update-test.json"
+            },
+            {
                 "name": "update.json",
                 "browser_download_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/updater/update.json"
             }
